@@ -5,7 +5,7 @@
   	<parameter name="browser" value="chrome"></parameter>
   <test name="TableWithFilterTest">
 		<classes>
-			<class name="com.herokuapp.theinternet.Elements.TableWithFilter" />
+			<class name="com.herokuapp.theinternet.Elements.DynamicTables" />
 		</classes>
 	</test>
 	
